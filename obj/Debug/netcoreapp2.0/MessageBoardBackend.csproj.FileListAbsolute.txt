@@ -1,0 +1,22 @@
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.deps.json
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.runtimeconfig.json
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.runtimeconfig.dev.json
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.dll
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.pdb
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.csprojAssemblyReference.cache
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.csproj.CoreCompileInputs.cache
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.AssemblyInfoInputs.cache
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.AssemblyInfo.cs
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.dll
+/Users/shreyassivaramakrishnan/Desktop/ang.net/Exercise Files/03_03/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.pdb
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.deps.json
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.runtimeconfig.json
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.runtimeconfig.dev.json
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.dll
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/bin/Debug/netcoreapp2.0/MessageBoardBackend.pdb
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.csprojAssemblyReference.cache
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.csproj.CoreCompileInputs.cache
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.AssemblyInfoInputs.cache
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.AssemblyInfo.cs
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.dll
+/Users/shreyassivaramakrishnan/Desktop/ang/MessageBoardBackend/obj/Debug/netcoreapp2.0/MessageBoardBackend.pdb
