@@ -22,11 +22,17 @@ namespace MessageBoardBackend.Controllers
                     Text = "Hi"
                 }
             };
-        [HttpGet]
         public IEnumerable<Models.Message> Get()
         {
             return messages; 
         }
+
+        [HttpGet("{name}")]
+        public IEnumerable<Models.Message> Get(string name)
+        {
+            return messages.FindAll(message => message.Owner == name);
+        }
+
         [HttpPost]
         public Models.Message post([FromBody] Models.Message message)
         {
